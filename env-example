@@ -1,0 +1,6 @@
+# .env
+GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
+GEMINI_MODEL = gemini-2.5-flash
+DEBUG = 1
+HISTORY_FILE = chat_history.json
+POLL_INTERVAL = 2.0
