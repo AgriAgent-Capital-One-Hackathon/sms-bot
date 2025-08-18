@@ -6,6 +6,14 @@ The SMS AI Advisor API Server is a FastAPI-based application designed to provide
 
 The system leverages Termux (Android terminal emulator) to send and receive SMS messages, while integrating with Google's Gemini AI model to provide intelligent responses. This creates a bridge between AI technology and areas with limited internet infrastructure, where SMS remains a reliable communication method.
 
+## Demo Video
+
+[![Youtube Video](SmartKrishi_yt.jpg)](https://youtu.be/mJtN4lrSehI)
+
+## [Presentation](https://drive.google.com/file/d/1LcKkQIvkNKGH32kqnbh9hwdn3twSZL6l/view)
+
+## [Long-form Synopsis](https://drive.google.com/file/d/1iOjhhgOHIbOHAgGFZnd5iEsVGjAlIhVT/view)
+
 ## Key Features
 
 - **SMS-based AI Communication**: Send questions via SMS and receive AI-powered responses
