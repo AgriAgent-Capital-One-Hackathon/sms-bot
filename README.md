@@ -8,7 +8,7 @@ The system leverages Termux (Android terminal emulator) to send and receive SMS 
 
 ## Demo Video
 
-[![Youtube Video](SmartKrishi_yt.jpg)](https://youtu.be/mJtN4lrSehI)
+[![Youtube Video](SmartKrishi_yt.jpg)](https://youtu.be/Ll8tKTERiH8)
 
 ## [Presentation](https://drive.google.com/file/d/1LcKkQIvkNKGH32kqnbh9hwdn3twSZL6l/view)
 
